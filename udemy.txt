@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sir Mafamoso</title>
+    </head>
+
+    <body>
+        <img src="mafamosofachero.jpg" alt="mafa totalmente fachero">
+        <h1>Sergio Britez</h1>
+        <p><em>Fundador de los <strong><a href="https://twitter.com/Mafamosok">Los Mafamosos</a></strong></em></p>
+        <p>Es profesor de algebra</p>
+        <hr>
+        
+    </body>
+</html>
